@@ -4,7 +4,7 @@ This repository contains a Java Spring Boot project that demonstrates JWT (JSON 
 
 ## Project Overview
 
-The project showcases the implementation of JWT authentication using Spring Security and Spring Data JPA. It provides a robust foundation for securing your application's endpoints and managing user authentication using tokens.
+The project showcases the implementation of JWT authentication using Spring Security and Spring Data JPA. It provides a robust foundation for securing the application's endpoints and managing user authentication using tokens.
 
 ## Features
 
